@@ -1,7 +1,6 @@
 ---
 title: "Mara's website"
 ---
+Hello there! My name is Mara Sanchez and i like pambazos:D
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
